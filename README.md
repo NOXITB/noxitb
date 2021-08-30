@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=noxitb&color=idnight-purple">
+<img src="https://komarev.com/ghpvc/?username=noxitb&color=midnight-purple">
 </p>
   
 <div align="center">
@@ -10,7 +10,7 @@
 
 ![profile] ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=noxitb&show_icons=true&theme=idnight-purple
+[profile]: https://github-readme-stats.vercel.app/api?username=noxitb&show_icons=true&theme=midnight-purple
 
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=noxitb&theme=midnight-purple
 

@@ -10,9 +10,9 @@
 
 ![profile] ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=noxitby&show_icons=true&theme=midnight-blue
+[profile]: https://github-readme-stats.vercel.app/api?username=noxitb&show_icons=true&theme=blue
 
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=noxitb&theme=midnight-blue
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=noxitb&theme=blue
 
 
 

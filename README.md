@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=noxitb&color=midnight-purple">
+<img src="https://komarev.com/ghpvc/?username=noxitb&color=blue">
 </p>
   
 <div align="center">

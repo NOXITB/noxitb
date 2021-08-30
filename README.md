@@ -14,6 +14,8 @@
 
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=noxitb&theme=midnight-purple
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noxitb&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 <!--

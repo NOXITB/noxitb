@@ -24,7 +24,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=noxitb)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=noxitb&theme=react-dark)
 
 ![GitHub metrics](https://metrics.lecoq.io/noxitb)
 

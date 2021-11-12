@@ -3,6 +3,23 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=noxitb&color=blue">
 </p>
+<p align="center">
+  <a href="https://github.com/noxitb/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/noxitb/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/noxitb/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/noxitb/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/noxitb/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/noxitb/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/noxitb/github-profile-trophy"/> 
+  </a>
+  </a>
+    <a href="https://github.com/sponsors/noxitb">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>
   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />

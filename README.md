@@ -10,7 +10,7 @@
   <a href="https://github.com/noxitb/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/forks/noxitb/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+  <a href="https://github.com/noxitb/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/noxitb/github-profile-trophy"/> 
   </a>
     <a href="https://github.com/noxitb/github-profile-trophy/LICENSE">

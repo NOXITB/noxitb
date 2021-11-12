@@ -8,7 +8,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+
 ![profile] ![languages]
+[![trophy](https://github-profile-trophy.vercel.app/?username=noxitb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [profile]: https://github-readme-stats.vercel.app/api?username=noxitb&show_icons=true&theme=midnight-purple
 

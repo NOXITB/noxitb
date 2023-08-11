@@ -27,5 +27,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=noxitb&theme=dark" alt="noxitb" /></p>
 
-<p><img align="centre" src="https://profile-summary-for-github.com/user/NOXITB " /></p>
 
+
+<a href="[https://stackoverflow.com/users/15397125](https://profile-summary-for-github.com/user/NOXITB)https://profile-summary-for-github.com/user/NOXITB" target="blank"><img align="center"  /></a>

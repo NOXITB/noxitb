@@ -2,7 +2,7 @@
 <h3 align="center">I am an all round dev from Australia And I can code in lots of languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxitb&label=Profile%20views&color=0e75b6&style=flat" alt="noxitb" /> </p>
-![Metrics](https://metrics.lecoq.io/NOXITB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Australia%2FBrisbane)
+<p align="left"> <img src="https://metrics.lecoq.io/NOXITB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Australia%2FBrisbane" /> </p>
 
 
 - 🔭 I’m currently working on [Rabbit Company](https://github.com/Rabbit-Company)

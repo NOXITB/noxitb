@@ -5,10 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxitb&theme=onedark" alt="noxitb" /></a> </p>
 
+- 🔭 I’m currently working on [Rabbit Company](https://github.com/Rabbit-Company)
+
 - 📫 How to reach me **blake@jenkohome.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/15397125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15397125" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbaf_psqfnouvq-cdyxnwxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbaf_psqfnouvq-cdyxnwxg" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/RvW5UCEer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RvW5UCEer3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -29,4 +29,4 @@
 
 
 
-<a href="[https://stackoverflow.com/users/15397125](https://profile-summary-for-github.com/user/NOXITB)https://profile-summary-for-github.com/user/NOXITB" target="blank"><img align="center"  /></a>
+<a href="https://profile-summary-for-github.com/user/NOXITB" target="blank"><img align="center"  /></a>

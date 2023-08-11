@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxitb&label=Profile%20views&color=0e75b6&style=flat" alt="noxitb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxitb" alt="noxitb" /></a> </p>
-
-- 🔭 I’m currently working on [Rabbit Company](https://github.com/Rabbit-Company)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxitb&theme=onedark" alt="noxitb" /></a> </p>
 
 - 📫 How to reach me **blake@jenkohome.com**
 

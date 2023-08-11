@@ -26,3 +26,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=noxitb&theme=dark&show_icons=true&locale=en" alt="noxitb" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=noxitb&theme=dark" alt="noxitb" /></p>
+
+<p><img align="centre" src="https://profile-summary-for-github.com/user/NOXITB " /></p>
+

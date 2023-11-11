@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://metrics.lecoq.io/NOXITB?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Australia%2FBrisbane" /> </p>
 
 
-- 🔭 I’m currently working on [Rabbit Company](https://github.com/Rabbit-Company)
-
-- 📫 How to reach me **blake@jenkohome.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
